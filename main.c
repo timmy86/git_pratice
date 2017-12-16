@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("hi");
+	printf("hi i am timmy at 2017/12/16");
 	return 0;
 }
